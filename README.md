@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Veshennaidoo/Veshennaidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a fraud detection model
 - 🌱 I’m currently learning programming in R
 - 👯 I’m looking to collaborate on new projects
@@ -13,4 +7,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: veshennaidoo.vn@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Data Science is used across all industries and fields from art to healthcare
--->
+
