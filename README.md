@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a fraud detection model
+- 🔭 I’m currently busy with a AWS cloud practioner course
 - 🌱 I’m currently learning programming in R
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with getting more experience within the industry
